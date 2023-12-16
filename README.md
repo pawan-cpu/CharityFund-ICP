@@ -1,4 +1,4 @@
-# ChainFund
+# CharityFund on ICP
 
 # Inspiration
 - We believe that direct human-to-human interactions and are at the core of what makes decentralized technology valuable.
