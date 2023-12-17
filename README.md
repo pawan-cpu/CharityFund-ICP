@@ -12,7 +12,7 @@
 - Let's come together and make a positive impact on homelessness by building a supportive community through our dapp.
 
 ## What it does
-- Our homeless crowdfunding dapp, powered by ChainFund's community model, helps reduce homelessness by supporting people in finding jobs and homes that lift them out of homelessness for good.
+- Our homeless charityfunding dapp, powered by CharityFund's community model, helps reduce homelessness by supporting people in finding jobs and homes that lift them out of homelessness for good.
 - 
 - We accomplish this by providing each person with a dedicated caseworker who connects them with a supportive online community that provides funding and mentorship. Our dapp is designed to encourage community support and incentivize funding through our economic incentive model.
 - 
@@ -25,9 +25,9 @@
 ## How we built it
 - Traditional crowdfunding platforms are often centralized and charge high fees.
 
-- Our decentralized crowdfunding platform uses Polygon blockchain to help the homeless. We are using cutting-edge technology to make charitable donations more efficient and transparent than ever before.
+- Our decentralized crowdfunding platform uses ICP blockchain's Definity Network to help the homeless. We are using cutting-edge technology to make charitable donations more efficient and transparent than ever before.
 
-- By utilizing the Polygon network, we are able to minimize transaction fees and ensure that donations go directly towards providing vocational training for the homeless.
+- By utilizing the Dfinity network, we are able to minimize transaction fees and ensure that donations go directly towards providing vocational training for the homeless.
 
 # Accomplishments that we're proud of
 - high level protocol specification is complete
@@ -41,7 +41,7 @@
 
 - Economic incentive design is tricky part 
 
-- Sending  message types over Polygon network
+- Sending  message types over Dfinity network
 
 ## What's Our Goal( Mission )
 - Reduce homelessness with ChainFund's community-powered model.
@@ -54,8 +54,8 @@
 
 
 ## What we learned
-- polygon framework
-- deploying site to polygon chain
+- Dfinity framework
+- deploying site to ICP chain
 - Create and run Campaigns
 
 ## What's next for Hugo + Web Monetization
@@ -65,10 +65,15 @@ create pull request to Spheron internal themes to make webmonetization possible 
 ## Github
 Github: https://github.com/akashpanda122/ChainFund
 
+#Frontend
+https://chain-fund.vercel.app/
+
+#Backend
+https://is.gd/KwlTny
 Demo page: https://chain-fund.vercel.app/
 
 ## Built With
-- Solidity
+- Motoko
 - HardHat
 - ThirdWeb
 - Spheron Network 
