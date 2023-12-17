@@ -69,8 +69,9 @@ Github: https://github.com/akashpanda122/ChainFund
 https://chain-fund.vercel.app/
 
 #Backend
-https://is.gd/KwlTny
-Demo page: https://chain-fund.vercel.app/
+https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=difti-nqaaa-aaaam-abtua-cai
+
+#Demo page: https://chain-fund.vercel.app/
 
 ## Built With
 - Motoko
